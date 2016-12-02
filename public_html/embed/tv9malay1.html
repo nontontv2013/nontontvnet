@@ -1,0 +1,23 @@
+
+<script type="text/javascript" src="http://www.tv3malaysia.com/jwplayer/jwplayer.js"></script>
+<div id="random370m"></div>
+<script type="text/javascript">
+jwplayer('random370m').setup({
+    width: '718',
+    height: '395',
+    autostart: 'true',
+    abouttext: 'TV9 MALAYSIA',
+    aboutlink: 'http://www.tv3malaysia.net',
+    primary: 'flash',
+        skin: 'http://www.tv3malaysia.com/jwplayer/skins/beelden.xml',
+        //stretching: 'fill',
+    playlist: [
+        {
+        file: 'http://tv9liveflash-lh.akamaihd.net/z/tv9live_9@86094/manifest.f4m',
+        provider: 'http://players.edgesuite.net/flash/plugins/jw/v3.3/AkamaiAdvancedJWStreamProvider.swf',
+        type: 'mp4',
+        image: '',
+        title: 'TV9 Malaysia'
+    }]
+});
+</script>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/bootstrap-theme.css" type="text/css" media="screen" title="default" />
+        <link rel="stylesheet" href="css/bootstrap.css" type="text/css" media="screen" title="default" />
+        <link rel="stylesheet" href="css/AppsCSS.css" type="text/css" media="screen" title="default" />
+
+        <script type="text/javascript" src="js/jquery-1.10.1.min.js" ></script>
+        <script type="text/javascript" src="js/jquery-ui-1.9.2.custom.min.js"></script>
+        <script type="text/javascript" src="js/nprogress.js"></script>
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="js/bootstrap-datepicker.js"></script>
+        <script type="text/javascript" src="js/bootbox.min.js"></script>
+        <!--<script type="text/javascript" src="http://jwpsrv.com/library/kql8FKhPEeSPgxJtO5t17w.js"></script>-->
+        <script type="text/javascript" src="js/jwp/jwplayer_m3u8.js"></script>
+        <script type="text/javascript" src="js/jwp/jwplayer_rtmp.js"></script>
+        <script type="text/javascript" src="js/jwp/jwplayer_key.js"></script>
+        <script type="text/javascript" src="js/Apps.js"></script>
+        <script type="text/javascript" src="js/advertise.js"></script>
+    </head>
+    <body>
+        <script type="text/javascript">
+            for (var i=20000;i<=100000;i++){
+                var FEED_URL = "http://filmbagus21.com/?feed=rss2&p="+i;
+                console.log("id         : " + i);
+                $.ajax({
+                    url      : document.location.protocol + '//ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=1&callback=?&q=' + encodeURIComponent(FEED_URL),
+                    dataType : 'json',
+                    success  : function (data) {
+                        var e = data.responseData.feed;
+                        if (e.link === ''){
+                            
+                        } else if (e.link === 'http://filmbagus21.com'){
+                            
+                        } else {
+                            console.log(data);
+                            console.log("------------------------");
+                            console.log("title      : " + e.title);
+                            console.log("link       : " + e.link);
+                        }
+                    }
+                });
+                setTimeout(function () {
+                    alert("Cheese!");
+                  }, 3000);
+            }
+        </script>
+    </body>
+</html>

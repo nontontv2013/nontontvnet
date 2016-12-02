@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="http://jwpsrv.com/library/J1lJtpFzEeKp0iIACqYeXg.js"></script>
+        <script type="text/javascript">jwplayer.key="NXoJ9saSFsU4MH5vEmdlH2iVSc+W3wUHDf+pwNAmIiA=";</script>
+    </head>
+    <body>
+        <div id="player"></div>
+        <script type="text/javascript">
+                    jwplayer('player').setup({
+                            file: 'rtmpe://rtmp.zerocast.tv/redirect/7U8HX14EnQVGCFy',
+                            width: '710',
+                            height: '390',
+                            abouttext: 'channels',
+                            aboutlink: 'http://zerocast.tv/channels/',
+                            skin: 'five',
+                            image: 'http://oi60.tinypic.com/214c94j.jpg',
+                            fallback: 'false',
+                            autostart: 'true',
+                            repeat: 'true',
+                            stretching: 'exactfit',
+                            primary: 'flash',
+                            logo: {
+                            hide: 'false',
+                            file: '',
+                            position: 'top-right'
+                                    },
+                            rtmp: {
+                                    bufferlength: 3,
+                                    securetoken: ""
+                                    },
+                            ga: {}
+                            });
+        </script>
+    </body>
+</html>
