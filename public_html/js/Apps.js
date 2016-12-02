@@ -1,7 +1,3 @@
-/* 
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 /*
 var popUpNum = 0;
 $('html').click(function(){
@@ -20,11 +16,7 @@ $(window).load(function(){
 });
 
 /* ----------------------------- RUN FUNCTION WHEN USE JSON CHANNEL ----------------------------- */
-    var fs = "https://www.googledrive.com/host/0B2_jLO3lNcKXaVVLejg0NHdCSFE/public_html/";
-    //var fs = "https://sourceforge.net/p/nonton-tv-net-project/code/ci/master/tree/public_html/";
-    //var fs = "https://cdn.rawgit.com/nontontv2013/nonton-tv-net-project/20150408a/public_html/";
-    //var fs = "https://nonton-tv-net-project.googlecode.com/git/public_html/";
-    //var fs = "http://localhost/nontontvnetgithub/public_html/";
+    var fs = $('html').data('fs');
     
     var GETCJSON = function (callback){
         $.ajax({
