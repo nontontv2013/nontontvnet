@@ -7,14 +7,14 @@ jsonCallback(
                     {   
                         "id"   : "net",
                         "name" : "NET",        
-                        "url"  : ["embed https://www.youtube.com/embed/ZWU009d5i7c?autoplay=1&rel=0&controls=1&showinfo=0","http://103.18.239.130/wh76pzref44u5306/nettv_all/playlist.m3u8?nimblesessionid=107405631&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAxNSAgMzoyODowMiBQTSZoYXNoX3ZhbHVlPWhYc0dvenpoYklBL3dOZkluUFk0VWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE="],
+                        "url"  : ["embed https://www.youtube.com/embed/ZWU009d5i7c?autoplay=1&rel=0&controls=1&showinfo=0"],
                         "logo" : "image/Net-TV-dan-KPI-1-480x300.png",
                         "desc" : "NET. (singkatan dari News and Entertainment Television) adalah sebuah stasiun televisi berjaringan di Indonesia yang resmi diluncurkan pada 26 Mei 2013. NET. menggantikan siaran terestrial Spacetoon Indonesia yang sebagian sahamnya telah diambil alih oleh Indika Group. Berbeda dengan Spacetoon yang acaranya ditujukan untuk anak-anak, program-program NET. ditujukan kepada keluarga dan pemirsa muda.\nSelain melalui jaringan terestrial, NET. juga menyiarkan kontennya melalui saluran komunikasi lain seperti jejaring sosial dan YouTube.\nProgram Grand Launching NET. ditayangkan secara langsung pada tanggal 26 Mei 2013 pukul 19.00 WIB dan disiarkan secara streaming melalui Youtube dan website resmi NET., dan acara Grand Launching ini menampilkan penyanyi internasional seperti Carly Rae Jepsen, Taio Cruz dan juga didukung oleh beberapa artis dalam negeri seperti Agnes Monica, Maudy Ayunda, Cherrybelle, Sm*sh, Noah, Raisa, Kahitna, Dewa 19, Andien, Ungu, Reza Rahardian, Andi Rianto dan banyak lagi\nPada tanggal 18 Mei 2014 NET. merayakan ulang tahun pertamanya yang bertajuk NET. ONE (Indonesian Choice Awards 2014)."
                     },
                     {   
                         "id"   : "tvonejkt",
                         "name" : "TV One",        
-                        "url"  : ["http://202.129.216.27:1935/tvone/tvone1/playlist.m3u8","http://103.18.239.130/wh76pzref44u5306/tvone2_all/playlist.m3u8?nimblesessionid=107405631&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAxNSAgMzoyODowMiBQTSZoYXNoX3ZhbHVlPWhYc0dvenpoYklBL3dOZkluUFk0VWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE="],
+                        "url"  : ["embed https://www.vidio.com/live/783-tvone-tv-stream/embed?autoplay=true&player_only=true&"],
                         "logo" : "image/TvOne_Logo28201129.png",
                         "desc" : "tvOne (sebelumnya bernama Lativi) adalah sebuah stasiun televisi swasta Indonesia. Berawal dari penggunaan nama Lativi, stasiun televisi ini didirikan pada tanggal 30 Juli 2002 oleh Abdul Latief dan dimiliki oleh ALatief Corporation. Pada saat itu, konsep penyusunan acaranya adalah banyak menonjolkan masalah yang berbau klenik, erotisme, berita kriminalitas dan beberapa hiburan ringan lainnya. Sejak tahun 2006, sebagian sahamnya juga dimiliki oleh Grup Bakrie yang juga memiliki stasiun televisi antv. Pada tanggal 14 Februari 2008, Lativi secara resmi berganti nama menjadi tvOne, dengan komposisi 70 persen berita, sisanya gabungan program olahraga dan hiburan. Abdul Latief tidak lagi berada dalam kepemilikan saham tvOne. Komposisi kepemilikan saham tvOne terdiri dari PT Visi Media Asia Tbk sebesar 49%, PT Redal Semesta 31%, Good Response Ltd 10%, dan Promise Result Ltd 10%. Direktur Utama tvOne saat ini adalah Ardiansyah Bakrie.[1]"
                     },
@@ -35,21 +35,21 @@ jsonCallback(
                     {   
                         "id"   : "transtv",
                         "name" : "Trans TV",        
-                        "url"  : ["embed http://embednontontvnet.blogspot.co.id/2015/12/trans-tv.html","http://103.18.239.130/wh76pzref44u5306/transtv2_all/playlist.m3u8?nimblesessionid=107405631&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAxNSAgMzoyODowMiBQTSZoYXNoX3ZhbHVlPWhYc0dvenpoYklBL3dOZkluUFk0VWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE="],
+                        "url"  : ["embed https://www.vidio.com/live/733-trans-tv-stream/embed?autoplay=true&player_only=true&"],
                         "logo" : "image/Logo_Trans_TV.png",
                         "desc" : "Trans TV adalah sebuah stasiun televisi swasta di Indonesia mulai secara terrestrial area di Jakarta, yang dimiliki oleh konglomerat Chairul Tanjung. Dengan moto \"Milik Kita Bersama\", konsep tayang stasiun ini tidak banyak berbeda dengan stasiun swasta lainnya. Trans TV adalah anak perusahaan PT Trans Corporation. Kantor Pusat stasiun ini berada di Gedung Trans TV, Jalan Kapten Pierre Tendean, Jakarta Selatan. Direktur Utama Trans TV saat ini adalah Atiek Nur Wahyuni yang juga merupakan Direktur Utama Trans7."
                     },
                     {   
                         "id"   : "trans7",
                         "name" : "Trans 7",        
-                        "url"  : ["embed http://embednontontvnet.blogspot.co.id/2015/09/trans7.html","http://103.18.239.130/wh76pzref44u5306/trans72_all/playlist.m3u8?nimblesessionid=107405631&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAxNSAgMzoyODowMiBQTSZoYXNoX3ZhbHVlPWhYc0dvenpoYklBL3dOZkluUFk0VWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE="],
+                        "url"  : ["embed https://www.vidio.com/live/734-trans7-tv-stream/embed?autoplay=true&player_only=true&"],
                         "logo" : "image/Logo_Trans7.png",
                         "desc" : "Trans7 (sebelumnya bernama TV7) adalah sebuah stasiun televisi swasta nasional di Indonesia. Trans7 yang pada awalnya menggunakan nama TV7, melakukan siaran perdananya secara terestrial di Jakarta pada 25 November 2001 dan pada saat itulah mayoritas sahamnya dimiliki oleh Kompas Gramedia. Pada tanggal 4 Agustus 2006, PT Trans Corporation mengakuisisi mayoritas saham TV7. Meski sejak itulah TV7 dan Trans TV resmi bergabung, namun ternyata TV7 masih dimiliki oleh Kompas Gramedia, sampai TV7 akhirnya melakukan re-launch (peluncuran ulang) pada 15 Desember 2006 dan menggunakan nama baru, yaitu Trans7."
                     },
                     {   
                         "id"   : "sctv",
                         "name" : "SCTV",        
-                        "url"  : ["http://103.18.239.130/sedz1j6exeot/sctv2_all/sedz1j6exeot/sctv2_240p/chunks.m3u8?nimblesessionid=101542770&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNSAgNDozMzozNiBQTSZoYXNoX3ZhbHVlPURFSVVBR1lQNmlQeFhaaVBDcFk0V2c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE=","http://103.18.239.130/wh76pzref44u5306/sctv2_all/playlist.m3u8?nimblesessionid=107405631&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAxNSAgMzoyODowMiBQTSZoYXNoX3ZhbHVlPWhYc0dvenpoYklBL3dOZkluUFk0VWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE="],
+                        "url"  : ["embed https://www.vidio.com/live/204-sctv-tv-stream/embed?autoplay=true&player_only=true&"],
                         "logo" : "image/20110218143118!SCTV_Logo.png",
                         "desc" : "SCTV (singkatan dari Surya Citra Televisi) adalah sebuah stasiun televisi swasta nasional di Indonesia. SCTV merupakan stasiun televisi swasta kedua di Indonesia setelah RCTI. SCTV lahir pada tanggal 24 Agustus 1990 sebagai stasiun televisi lokal di Surabaya yang berpusat di Jl. Darmo Permai, Surabaya, Jawa Timur, di mana SCTV pada awalnya didirikan untuk menayangkan acara-acara RCTI untuk wilayah Surabaya. Meski tanggal itu ditetapkan sebagai tanggal lahir SCTV, namun baru tanggal 1 Januari 1993, SCTV mendapatkan izin sebagai stasiun televisi nasional di Jakarta. Kantor operasional SCTV pun secara bertahap dipindahkan dari Surabaya ke Jakarta, namun studio SCTV tetap berada di Surabaya. Awalnya, mayoritas saham SCTV dimiliki oleh PT Bimantara Citra, Tbk, melalui anak usahanya, PT Sindo Citra Media (kini menjadi PT Surya Citra Media).\nMeski berkali-kali berpindah kantor, SCTV selalu mengudara setiap hari. Pada tahun 1993 misalnya, SCTV berpindah kantor ke Wisma AKR, Jakarta Barat yang letaknya berdekatan dengan kantor RCTI. Lalu pada tahun 1996, SCTV berpindah kantor lagi ke Wisma Indovision. Menginjak usia ke-11, pada tahun 2001, SCTV kemudian memusatkan kegiatan operasionalnya di Gedung Graha SCTV, Jalan Gatot Subroto, Jakarta Selatan. Dan pada tahun 2007, kegiatan operasional SCTV berpusat di Senayan City. Namun, stasiun pemancar dan studio tetap dipusatkan di Kebon Jeruk.\nSejak tahun 1999, mayoritas saham SCTV diakuisisi oleh PT Surya Citra Media, Tbk. Pada awal Mei 2013, SCTV dan Indosiar resmi bergabung."
                     },
@@ -70,42 +70,42 @@ jsonCallback(
                     {   
                         "id"   : "indosiar",
                         "name" : "INDOSIAR",        
-                        "url"  : ["http://103.18.239.130/sedz1j6exeot/indosiar2_all/sedz1j6exeot/indosiar2_240p/chunks.m3u8?nimblesessionid=101542770&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNSAgNDozMzozNiBQTSZoYXNoX3ZhbHVlPURFSVVBR1lQNmlQeFhaaVBDcFk0V2c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE=","http://103.18.239.130/wh76pzref44u5306/indosiar2_all/playlist.m3u8?nimblesessionid=107405631&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAxNSAgMzoyODowMiBQTSZoYXNoX3ZhbHVlPWhYc0dvenpoYklBL3dOZkluUFk0VWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE="],
+                        "url"  : ["https://www.vidio.com/live/205-indosiar-tv-stream/embed?autoplay=true&player_only=true&"],
                         "logo" : "image/INDOSIAR_Logo.png",
                         "desc" : "Indosiar adalah salah satu stasiun televisi swasta nasional di Indonesia. Stasiun televisi ini beroperasi dari Daan Mogot, Jakarta Barat. Indosiar awalnya didirikan dan dikuasai oleh Salim Group. Pada tahun 2004, Indosiar merupakan bagian dari PT. Indosiar Karya Media Tbk. (sebelumnya PT. Indovisual Citra Persada) yang tercatat di Bursa Efek Indonesia (dahulu Bursa Efek Jakarta). Pada 13 Mei 2011, mayoritas saham PT. Indosiar Karya Media Tbk. dibeli oleh PT. Elang Mahkota Teknologi Tbk., pemilik SCTV (melalui SCM sebelum bergabung dengan IDKM) dan O Channel, menjadikan ketiga stasiun televisi berada dalam satu pengendalian. Kini, stasiun televisi ini resmi dikuasai oleh SCM pasca bergabung dengan IDKM dan \"bersaudara\" dengan SCTV."
                     },
                     {   
                         "id"   : "antv",
                         "name" : "ANTV",        
-                        "url"  : ["rtmp://202.129.216.27/antv/antv1","http://103.18.239.130/wh76pzref44u5306/antv2_all/playlist.m3u8?nimblesessionid=107405631&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAxNSAgMzoyODowMiBQTSZoYXNoX3ZhbHVlPWhYc0dvenpoYklBL3dOZkluUFk0VWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE="],
+                        "url"  : ["https://www.vidio.com/live/782-antv-tv-stream/embed?autoplay=true&player_only=true&"],
                         "logo" : "image/antv.png",
                         "desc" : "antv (singkatan dari Andalas Televisi) adalah sebuah stasiun televisi swasta nasional Indonesia. Stasiun televisi ini awalnya disiarkan pada 1 Januari 1993 di kota Lampung dan sekitarnya. Bermula dari sebuah izin siaran lokal di Lampung, antv mengudara selama 5 jam sehari. Satu tahun kemudian, tepatnya tanggal 1 Maret 1994, antv secara resmi disiarkan ke seluruh Indonesia dari Jakarta.\nantv dimiliki oleh konglomerat muda Anindya Bakrie dan sekarang dikelola oleh yaitu Erick Thohir, yang menjadi Presiden Direktur dari stasiun televisi ini sekaligus Wakil Komisaris Utama VIVA. Konglomerat media asal Amerika Serikat, Rupert Murdoch, membeli sekitar 20% saham antv pada 30 April 2006 melalui perusahaannya di Hong Kong, STAR TV. Pangsa pasar antv saat ini adalah sekitar 5% dari 180 juta penonton. antv telah memiliki hak siar atas ajang sepak bola bergengsi Dunia, Piala Dunia FIFA 2014 bersama tvOne."
                     },
                     {   
                         "id"   : "rtv",
                         "name" : "Rajawali TV",        
-                        "url"  : ["rtmp://203.153.97.35/live/livestream","http://103.18.239.130/wh76pzref44u5306/rajawalitv.stream_all/playlist.m3u8?nimblesessionid=107405631&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAxNSAgMzoyODowMiBQTSZoYXNoX3ZhbHVlPWhYc0dvenpoYklBL3dOZkluUFk0VWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE="],
+                        "url"  : ["rtmp://203.153.97.35/live/livestream"],
                         "logo" : "image/rajawalitv.png",
                         "desc" : "Rajawali Televisi (disingkat RTV, sebelumnya bernama B-Channel) adalah sebuah stasiun televisi swasta terestrial nasional asal Jakarta, Indonesia yang dimilik perusahaan oleh Rajawali Corpora. RTV resmi mengudara pada tanggal 1 November 2009 di Jakarta dengan nama B-Channel. Saat ini, program RTV sendiri lebih difokuskan pada acara hiburan, soft news dan variety show untuk keluarga. Pada tanggal 3 Mei 2014, B-Channel berganti nama menjadi \"RTV (Rajawali Televisi)\" pada saat acara Grand Launching Langit Rajawali."
                     },
                     {   
                         "id"   : "brtstNews",
                         "name" : "Berita Satu News",        
-                        "url"  : ["http://103.18.239.130/wh76pzref44u5306/beritasatu_all/playlist.m3u8?nimblesessionid=107405631&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAxNSAgMzoyODowMiBQTSZoYXNoX3ZhbHVlPWhYc0dvenpoYklBL3dOZkluUFk0VWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE=","http://180.250.29.21/jhos/beritasatu/1441230042/playlist.m3u8"],
+                        "url"  : [""],
                         "logo" : "image/beritasatu.png",
                         "desc" : "BeritaSatu (sebelumnya bernama QTV dan Q Channel) adalah saluran televisi berita yang mengudara sejak tahun 1996. Saluran ini juga berguna sebagai saluran khusus untuk mengenai soal-soal keuangan dan informasi. Saluran ini hanya bisa disaksikan melalui satelit dan kabel dan juga siaran digital terestrial DVB-T2 yang bisa disaksikan via Set Top Box DVB-T2 atau Nexmedia. Target pemirsanya adalah kalangan menengah ke atas. Pemilik dan pendirinya adalah Peter F. Gontha."
                     },
                     {   
                         "id"   : "kompastv",
                         "name" : "Kompas TV",        
-                        "url"  : ["rtmp://202.137.11.52/jakarta/offair.sdp","http://103.18.239.130/wh76pzref44u5306/kompastv_all/playlist.m3u8?nimblesessionid=107405631&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAxNSAgMzoyODowMiBQTSZoYXNoX3ZhbHVlPWhYc0dvenpoYklBL3dOZkluUFk0VWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE="],
+                        "url"  : ["rtmp://43.245.183.170/kompastv/live.stream"],
                         "logo" : "image/kompastv.png",
                         "desc" : "Kompas TV merupakan stasiun televisi swasta terestrial berjaringan di Indonesia. Kompas TV dimiliki oleh Kompas Gramedia. Stasiun televisi ini hadir menggantikan stasiun televisi yang pernah dimiliki oleh Kompas Gramedia, yaitu TV7. Sejak saham TV7 dibeli oleh pihak Trans Corp yang berdiri di bawah kepemimpinan Chairul Tanjung pada tahun 2006 dan nama TV7 diganti menjadi Trans7, maka saham Kompas Gramedia terhadap Trans7 menurun menjadi hampir setengah dari Trans Corp. Pada tanggal 11 September 2011, Kompas TV mengubah logonya yaitu dengan menghilangkan tulisan TV pada logo tersebut, dan tulisan TV tersebut kembali digunakan mulai 5 Oktober 2012 hingga sekarang."
                     },
                     {   
                         "id"   : "inewstv",
                         "name" : "iNews TV",        
-                        "url"  : ["rtmp://video3.indostar-tv.com/live/sindotv"],
+                        "url"  : ["http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8"],
                         "logo" : "image/inews.png",
                         "desc" : "iNewsTV adalah jaringan televisi lokal terbesar di Indonesia. Mengawali perjalanan hidupnya, pertama kali diluncurkan dengan nama SUN TV pada tanggal 5 Maret 2008. Siaran perdana SUN TV semula hanya dapat dilihat secara terestrial di beberapa jaringan televisi lokal di Indonesia serta melalui Indovision, Oke Vision dan Top TV. Seiring berjalannya waktu perubahan demi perubahan dilakukan. Sejak tanggal 26 September 2011, SUN TV berubah namanya menjadi SINDOTV yang merupakan perwujudan dari sinergi SINDO Media, bersama dengan SINDO Radio (Trijaya FM), Koran SINDO serta portal sindonews.com. Pada tanggal 23 September 2014 secara resmi Menteri Komunikasi dan Informatika RI memberikan izin stasiun jaringan bagi SINDOTV. Kemudian pada tanggal 6 April 2015, SINDOTV berubah menjadi iNewsTV yang merupakan singkatan dari Indonesia News Televisi. iNewsTV merupakan televisi nasional yang memiliki jaringan televisi lokal terbanyak di seluruh Indonesia. Dengan didukung jaringan yang luas ini, iNewsTV dipastikan akan mengangkat dan menonjolkan  konten lokal dari masing-masing daerah. iNewsTV akan menjadi stasiun televisi yang mengunggulkan program-program berita dan informasi yang cepat, akurat, informatif, mendidik serta menginspirasi. Untuk memperkuat keunggulannya sebagai televisi berita dan informasi, iNewsTV didukung oleh news centre dan news gathering terbesar di Indonesia. "
                     },
